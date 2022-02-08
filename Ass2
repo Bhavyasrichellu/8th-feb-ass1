@@ -1,0 +1,3 @@
+a=int(input('enter a value in kilometers'))
+meters= a*100000
+print('a value in meters is',meters)
